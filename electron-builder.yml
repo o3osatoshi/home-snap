@@ -1,6 +1,6 @@
-appId: com.example.nextron
-productName: My Nextron App
-copyright: Copyright © 2018 Yoshihide Shiono
+appId: work.engr
+productName: Home Snap
+copyright: Copyright © 2024 Satoshi Ogura
 directories:
   output: dist
   buildResources: resources
